@@ -1,0 +1,26 @@
+{
+  "name": "Rose Mann",
+  "age": 52,
+  "address": {
+    "street": "Rikmuv Lane",
+    "city": "Wisnisut",
+    "state": "IL",
+    "zip": "86925"
+  },
+  "contact": {
+    "phone": "(752) 427-9578",
+    "servicePhone": "800847134"
+  },
+  "birthday": "2001-08-14T05:09:09.708Z",
+  "ip": "65.162.37.147",
+  "foo": "bar",
+  "profile": {
+    "about": "Kenikdar nu ro lofituk be dodbeso cotdu kasip lat elafova je zeucki juofuihe readafem. Pizu bom gar jahbiz af fi tudjuzsel vip jaze muuhoce maj dacnuk evduj ivset lifigdo lopwollaz ohersu. Turhad tahhev ab nijwo jomocuag kisa pocbom fakfup pi fuvu adivacgan wab usohaso gin awojosmin sokpa.",
+    "bio": "Ruzor mufemlof seelmi mol vaturij ewcib terolfa ozoveg enoowhul ritusirem wigeg kab mefouto. Icmi idarar nekge bozucol luejtu fuhepip urammel het hitni ofgumu wol rehparot nillehe jiwmo luvvedzem. Namji wu lewzabkug avi sulhirho afdu vo ki aku gijfa vilsub sez damjese waldu cudu mecija tebalniv."
+  },
+  "apiKey": "43febd799a0dea7a100c3bcae6b64e1e97b623d3f26b9adcff3acf08179492bc",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
