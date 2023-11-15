@@ -1,0 +1,26 @@
+{
+  "name": "Emilie Briggs",
+  "age": 21,
+  "address": {
+    "street": "Newva Grove",
+    "city": "Fumundav",
+    "state": "KY",
+    "zip": "82661"
+  },
+  "contact": {
+    "phone": "(543) 214-8479",
+    "servicePhone": "800273959"
+  },
+  "birthday": "1995-03-11T11:26:38.824Z",
+  "ip": "113.122.214.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Dinnu laba etufez zesaf uhruwga gavko lirabu ode po izvir ranifa anavo. Je juhusut jav ekoiwobut dastestec uvwolavu lomzup talojoinu dib ruute imgabavo zihumo. Nawip da kej rasvininu ledefe pitinataf petoczib mohziwi id gopit eszejob woari ed ga ezaofiva fehcu. Laka pek buguj buni gep zec hisbupfu tabpetdec ru ok voiwiek kifek. Jagel ohrad vu hahivkaz wegemaavu vawe vogaknu alti vatu kidwa ifuake va.",
+    "bio": "Sozaj beewhu ikgakis bo ockimo nuw va ituegiwo coham ebmuka rervif edatubof. Resuk ojehukra okruwsuf gavif geelagu pejluvew totconfa tu re nakire vavuwel cohnac dato jif. Loit himwip wuceh sedefe horehu coidi le je barpajka ez lub cotrevmo okifi poisu ve zir."
+  },
+  "apiKey": "29e1dc16ca6ca8bcefc346af1018a9f2bef20a11b62afa549ac5461bdf11f943",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
