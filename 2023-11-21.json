@@ -1,0 +1,26 @@
+{
+  "name": "Alexander Wise",
+  "age": 42,
+  "address": {
+    "street": "Pobeb Pass",
+    "city": "Pilisam",
+    "state": "NM",
+    "zip": "00150"
+  },
+  "contact": {
+    "phone": "(877) 731-3590",
+    "servicePhone": "800263892"
+  },
+  "birthday": "2004-06-01T22:53:17.335Z",
+  "ip": "113.144.126.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Elu eho samdi bomu cot wawjopbud unwic ter semerno fufin ticpoos artauw ejetoiju. Ersezpo gefi gawpib hi roetvog pac fanus li saziged tejo luzeus wa fuz ti awbanje. Ubwefwuk denecti se sasdi bin sig ocepi necjeco wirid ikugin saf vij zarli kif vin pevcafi zamhi ic. Oz se cisiaj vole vobim adoen zughe ubireda mu guk decnuwciz ab cekco sahsegin.",
+    "bio": "Aseogo padan jol molge omubiup ac tih ukotufi huvfob cid itamioj bimzev zor dev nawo pi. Hi tadut galaw libsikus nelenoz unnajod mamgu owbiri ne nikri ikiruj ici rol gawfew mur vit ivo sodalla. Sip ukpu bemfap got jevfaza calmu hu ak rilhut hi ma ne gituca duemo pujcinan kepojrig. Gid jezsekfij ek kovpozur tawbuzri cizofim of urece ujti bajvuspil daecki mehlo rimgap zunbunel resaj zof. Ocza pizhituv pas eptotso etijo luzel ejasudne kiemeehi poveli da ti zehpuzko ol fipube. Sis pabtirzu ligora binejod roj hu huwgo ojo reclilac ki wufol pur wud."
+  },
+  "apiKey": "3ea94a30242b52850ac9f5883000bab2b9bb55cdb88e1f74d50484df03320108",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
