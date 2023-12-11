@@ -1,0 +1,26 @@
+{
+  "name": "Jacob Vaughn",
+  "age": 40,
+  "address": {
+    "street": "Woru Glen",
+    "city": "Cusdupde",
+    "state": "CA",
+    "zip": "21123"
+  },
+  "contact": {
+    "phone": "(380) 992-9517",
+    "servicePhone": "800456489"
+  },
+  "birthday": "1999-08-10T21:06:06.766Z",
+  "ip": "217.117.214.61",
+  "foo": "bar",
+  "profile": {
+    "about": "Icime olovi begap sa hijigir cikmi fon direowo vuolpeh nired goctak ajnas gefelcal asnud wadgeduf cumabetu jinmis gepek. Deeco so suncupfe saofkah irvim okuef de vizezapa cu he muzhif ci ezotuso ki tivda pama fidfol. Fuvzo owa cuopikaw avleh macium piojjug fes pib raasatu wibawa lom ca.",
+    "bio": "Gom alagel kutwu uf jij izwavah be nuj mufu pad dikviv nolozbuw wipsefamo pi diji. Of liret aki ro uja tep kinef kek tonfeno lobu lidog efizal. Deperneh rine gi lofze va giub kilome vakohu gi kijbehoj kioz vufin zafkauk fe piop eluttan anaivge. Fen jomupu feficvol ezhi acke cap tup zofsosfa fe ti zal odomu owuewi wepirur mos vunri lom."
+  },
+  "apiKey": "50f61c064331127dfbcb6608b390c00b52b06b8049fce86a9c9627902c74b048",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
