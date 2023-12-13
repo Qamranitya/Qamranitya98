@@ -1,0 +1,26 @@
+{
+  "name": "Eugenia Bradley",
+  "age": 23,
+  "address": {
+    "street": "Tuhez Plaza",
+    "city": "Dopuflo",
+    "state": "SC",
+    "zip": "11052"
+  },
+  "contact": {
+    "phone": "(701) 298-2088",
+    "servicePhone": "800664452"
+  },
+  "birthday": "1992-11-09T16:20:25.771Z",
+  "ip": "95.76.158.166",
+  "foo": "bar",
+  "profile": {
+    "about": "Mesci az aclecvo segom ura vafdem bavokiv iw migpuwe geburleb vulpu ojole falu zirsafur cocuozu ritavme co. Apu gutidizo dameb gojulzow reccabow fagocov gebpu tescarsuc walod gilhuh kuh codciruz saw an hitzu. Cajaw ur ufi iv ti vu ohgo gejpe fe ewape bep zaz diku es pu. Hicfo utzewrag taigehuf bokfegzuc vimu tirote horkab ni nerrosap oluduf naw pouw wisabahij up ceri.",
+    "bio": "Em hir epzihek gipiv min zogwo zetiga zuupeso co ko okazalsi orwop kappehu bi ro uda. Titrafeme zoniku li dutdigat ak cikej jic or lu janog sagcuc olota azake cehudmi. Dejecoh ujnontez huchiniv enrosi tawi gagrafmi evni obtevom ri puzukkuc ha wodha vu."
+  },
+  "apiKey": "abecb48675b57dfe86e7ae293b6b364d334c740d3ebc9b5f55806a29e2116eba",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
