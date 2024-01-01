@@ -1,0 +1,26 @@
+{
+  "name": "Edgar Becker",
+  "age": 35,
+  "address": {
+    "street": "Jizuce Point",
+    "city": "Biijuco",
+    "state": "OH",
+    "zip": "10722"
+  },
+  "contact": {
+    "phone": "(456) 711-5319",
+    "servicePhone": "800411779"
+  },
+  "birthday": "2001-04-20T12:57:18.638Z",
+  "ip": "128.31.195.238",
+  "foo": "bar",
+  "profile": {
+    "about": "Muvufo sama ra manowo ag ebi ud wewwe zu wegek vi ra age afimojla hohhawnig. Puzramuvi aseojuida bogazvew dah pibuzlob zagolave kuj efom ohazezuj rabwoza beukzaf zetta bewozok kothalzez. Kiidacut cecpadnun vi havom fusatlig hizagaz rudda seak epawed beso amiku paazaku huz. Huza buluw nu vol arceuz ejijab juzhe huvjuk voruril go we pe iz puseto cawzaju.",
+    "bio": "Pijis fuad kinzobrik zem su eca ojiper vuk ve nidemome surkesku ne cug leako le ocibukez bumar vil. Zabawzod infak novihi etoka zeisco uruc pahirzuc ro orduw gis ozka zuz kikme jiw hi. War pa weztof bemop wos neadze reh hulvubab fizav upubineg ciwzuj eg ri iced lafobuw. Rijgi eha metcal jivufumu seeh direder vewjulepo boriro ikedarwik be gaavome ama."
+  },
+  "apiKey": "ca0deb28689ce3197665be04e247df462eb726b8228929c5b901c897282f5585",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
