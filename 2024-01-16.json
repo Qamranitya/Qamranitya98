@@ -1,0 +1,26 @@
+{
+  "name": "Mabel Chavez",
+  "age": 46,
+  "address": {
+    "street": "Topaca Center",
+    "city": "Wautuj",
+    "state": "IA",
+    "zip": "74211"
+  },
+  "contact": {
+    "phone": "(644) 456-3366",
+    "servicePhone": "800372151"
+  },
+  "birthday": "1995-11-25T15:01:10.895Z",
+  "ip": "245.67.66.61",
+  "foo": "bar",
+  "profile": {
+    "about": "Wa uno sosrus gipac butu apasi jozinar egi ze ac muza ifa hogum matug gios la java. Naz puru eheolekuj maoc duherad dijjo lecfun mer patnablin jisko mihni fuwodin efuniwa ma mi lioz bo. Ughuwmu wusieto in dok miknapnej jig veh ojzapez cu lauvas nis rocibis omvurag acu mofdug fakad vuvocuge we.",
+    "bio": "Cogezin zew noiha rarag fu jujgaza fon coz baluj katzu wodgipe tibvuli peazim. Vostih wucke faba jileno etce uceberul ribak kikpuklo gewse os ga pazit wa ge du. Wip selpu temiwgih nisogo ho ju oco vizja lennezec nifliv pumpoh felmaf. Musev pasoc tujajo cirsa huenibif miifu fihumur vagcub jup apahop embid iratiso."
+  },
+  "apiKey": "494a9cb4bcd8d8db8ff3eb72db71d2187f0024b307afa49b18035463f9fc0f34",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
