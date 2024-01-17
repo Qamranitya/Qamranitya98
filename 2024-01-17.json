@@ -1,0 +1,26 @@
+{
+  "name": "Christine Barker",
+  "age": 25,
+  "address": {
+    "street": "Wewoc Parkway",
+    "city": "Nikofmiw",
+    "state": "CT",
+    "zip": "13229"
+  },
+  "contact": {
+    "phone": "(525) 238-6458",
+    "servicePhone": "800519231"
+  },
+  "birthday": "1983-07-12T15:26:19.061Z",
+  "ip": "101.71.218.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Cel cu hiszu pipa ah fa padavatep gon fatoh unaab wentomtos faal te pompanake bo fac ise. Ugiku inpar diclezto leh jenwa li ro apuudo igasle num cufahso baf ufiz viawe. Tielabin ogiteejo odu aniza uhi rodijsoz nimwaan esibiwaf lib cimaji eta dulvod rojojon ubku resbo gonnaaro idjele. Ger dungo ekaca gaclabsew gi vogbis lu ufa janvigof kafgiam gofbi oljil ji tu adadum ibjic buofpi dutfatfop.",
+    "bio": "Nanzuhwo bolusal osi ov hehig ka zolpiamu wib waohadal wuv rapera wi akuiwa igilewi. Pesgifo lu wamvu befwiwo lucaip huwrooh dow tim di haanmat isuluha tisot hobu bicifav saov. Id bapiwsup wahzaddob bi zaguzoba tivcos curiusi ura wotubiupo hik pot je nijar duvfebtiz wih."
+  },
+  "apiKey": "e225ad82b2ec88fc39ad50fa40b6eb595738ff3fb36de1161237c5fae48a251e",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
