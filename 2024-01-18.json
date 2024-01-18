@@ -1,0 +1,26 @@
+{
+  "name": "Barbara Lambert",
+  "age": 41,
+  "address": {
+    "street": "Zuoz Drive",
+    "city": "Teregojeg",
+    "state": "AL",
+    "zip": "35000"
+  },
+  "contact": {
+    "phone": "(561) 518-1631",
+    "servicePhone": "800543779"
+  },
+  "birthday": "1961-01-19T17:36:06.885Z",
+  "ip": "148.11.20.117",
+  "foo": "bar",
+  "profile": {
+    "about": "Hazom gaon cepew cazho uc rog zak muc sovzizoja zel igekavmur sibebi. Zo zajeagu navanwub cupowoz homos mo iv donwa goriwjof ulusoeje opbehas nudamunu widit esizawce abo imjikku. Guhi bolekus zoarni wa curo tozvot duobeci fafcap nuis munec kotdenu siwip regwiva gutum. Aw gu wemuca mokvaugu fido pepohuat juwe lecuta fajeid nuk rujepe bamu ommiwpu wardu lofwigvu nuk. Lunzavdi avipep giuharo evneh ciri ezecomur bomedu jipawubo sanvutaz ludlejak fovec febha vancaf oriupalog uczatok somhahek.",
+    "bio": "Fagecku rivuv jodapbes satkec tomjene zuf mega ak cemtus padvi ja batetjaz kemo gewul zuhetja lopo kapi jadba. Zut rehasuz ofsu mupusu toc ah bikulis ucumefnas dadujta is ic amfom ap idu jeh kizkip dira. Nekosab nudzo rewen dag wukpo worwoku ersi goppuloh si gezno rahej ni lehecev fa kij ropow zijeho tefweez."
+  },
+  "apiKey": "6b7ef845328bca3b2d526637fded65135a02c821f4e94ebece0a281e8fb9786d",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
