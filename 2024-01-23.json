@@ -1,0 +1,26 @@
+{
+  "name": "Mike Nguyen",
+  "age": 33,
+  "address": {
+    "street": "Vana Avenue",
+    "city": "Kafebareb",
+    "state": "RI",
+    "zip": "00715"
+  },
+  "contact": {
+    "phone": "(675) 430-1271",
+    "servicePhone": "800787796"
+  },
+  "birthday": "1962-02-07T16:36:34.326Z",
+  "ip": "143.0.69.251",
+  "foo": "bar",
+  "profile": {
+    "about": "Piwlora zatmid ajumeho covaliw jaras dos wazunudil jiw bigusubo hunafadi hoebopa mo bo hasimdew focumdo. Irutelit fotgavlad wugahe ot of vemurhez visvi vagjahojo givniru tak vuzizde puh toofami nojde pima irafu guhmasa. Huvic vocotkiz kufwujoj wiwib abma bor apuifebi rugzuzi heacuge ahla ozibud uke si meoho uzerahac ipkigad. Fipig woser onwori beigi ju ucula te butgi po huorga ocufe nuk pecza. Ohowano ukbud bumezad zadodaew we giso tevkac gegpan udtuc kilreac napit nazub wuzcok uwufok. Sacewa tihe gumabof oj benpiow fu lokcaf rebhudek gerlon bucuz ak derkif zi rapdec erejiha. Mof buzaj ocmap muleg ewudera basol ovri topop nafpuker gam fil kipledi girbukum evju ro pomel fud.",
+    "bio": "Uzogivraz sigik sehkezpi fovawob nuhoz juwaoda jecad to gimvopji kim izaki vufnuphu epmo hawe cu. Tosulu sew asta irte dosse netop bi kisgol poreson cas kinejta afi oljiv ne iga enidow nuv. Dofzez lesazfi abgot pa wevoguhig iz fuhrul obojuhi ako runfojega oge pijuha gowi sek toddol verep tic. Utotac gemutuj liz zad row uw micjudut ruhi ji afinon efotik ikwahwo zuc bade. Zuzi conlaf jo iboubne suw ip cosoj mu pa mutka uv ognoh."
+  },
+  "apiKey": "83f063644e4f45dec081fd4fd57777cd0d0981bd6b6adc948c16c0d7f8443a74",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
