@@ -1,0 +1,26 @@
+{
+  "name": "Adrian Roy",
+  "age": 45,
+  "address": {
+    "street": "Heviw Drive",
+    "city": "Cajahe",
+    "state": "ID",
+    "zip": "37603"
+  },
+  "contact": {
+    "phone": "(768) 994-8707",
+    "servicePhone": "800484351"
+  },
+  "birthday": "1994-08-06T13:09:26.493Z",
+  "ip": "104.207.101.128",
+  "foo": "bar",
+  "profile": {
+    "about": "Jede fij gutha ozjelod hawnuet wos jad capga jomtiviso ce hed fagrider zokme. Ho fensugul wonme zivda cavtet nawemme kim huvaug nuhu naove ekuzar udipgak vuwef vavuzvug. Forho obveh uloracfac nuaza pamo sonogu pam zohadeb ado rahtih ru kijeghog no fihabed ju apzosi. Huon uce tohpecvi oguwobe me zobcora ho dujkutaf tizuv rocutu vezel tozir enjewiso fi. Nogwit zo wad zoguzvol fa velcorpim loal zaita olatev zifijujos osufozu seeh pafocof abowec vu. Tek hepbep etwuj mada zulgew fepnid pestuhot nu dowiad hicinus te oruerujeb ca otocer kuza cilce.",
+    "bio": "Kevuga ti wehihnu vawopfu hiw poulbe va kubcova ku roslaga uhce bu avro. Gedpos kid binkem tavkiaru pooka ti vog do jizzazza akok an lu pi. Tinoka fum gub ej nob hemwolodo teubi otjes veguc mubkubege jibub ku. Zifu cug ada pedakho buc ki begrakud jikec orlu juiwol imiwazpuv mugjij hotal ihmebwu va zeh cil. La jehze le hamuti ij pita bihsifori owimet jatcehup le ipbufrur uz da vaon gone agkeura bothoc. Sih ojizom nuc detcas doimo ecuge lotazew tevaz ujuewi bacemu wegkehus ujo devubco ci. In zupfek nazmum movutsi ufo tejudpab wavome azami paare nipuzzaj usadegu ra zapjozpo sozpa op war."
+  },
+  "apiKey": "b9e8130e51248889aaff0e7eef0562dc87ca74f5b52aab4cf47cbae07964bc23",
+  "currency": {
+    "code": "SDG",
+    "name": "Sudan Pound"
+  }
+}
