@@ -1,0 +1,26 @@
+{
+  "name": "Amy Alvarado",
+  "age": 63,
+  "address": {
+    "street": "Cates Boulevard",
+    "city": "Oklajla",
+    "state": "TN",
+    "zip": "12638"
+  },
+  "contact": {
+    "phone": "(530) 414-2544",
+    "servicePhone": "800555262"
+  },
+  "birthday": "1985-04-22T22:38:45.947Z",
+  "ip": "73.132.104.40",
+  "foo": "bar",
+  "profile": {
+    "about": "Lumkud jefi fa cej hizam jobab zubitega fik lavza amduppaj giwhepser zattihud zodser sunciw okivepub to. Iha icze ka ti lospa riob edi ifiwiiw vod asowajok sal pukre erreb paima kizrizra. Ko jakafno ovvo tad zolputbik tuzofoz dak alotej olesaid upnica ihe jeijhi gutuve ewicdi ze fibe sihel.",
+    "bio": "Ruwibmok bo ezu jobteg zevroulo sizba efaahime fi cez uhe renbik fosebka ted sen ed ebeji. Ru tanoma zeefi ha colgecof kibgana wesca bopune kop gice wimig fa loora. Gogemsev oso gevos melmoc meudanik fi dihgemsem pale zowi mukefova set bivniho."
+  },
+  "apiKey": "3842dbb6988e9907a956852e39c9b8b7a9d67f90b63054b6690f63ddcf27dc4f",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
