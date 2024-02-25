@@ -1,0 +1,26 @@
+{
+  "name": "Josephine Hodges",
+  "age": 54,
+  "address": {
+    "street": "Goci Road",
+    "city": "Bimvigur",
+    "state": "OK",
+    "zip": "25655"
+  },
+  "contact": {
+    "phone": "(727) 457-8060",
+    "servicePhone": "800496331"
+  },
+  "birthday": "1992-07-08T16:23:14.157Z",
+  "ip": "72.140.21.227",
+  "foo": "bar",
+  "profile": {
+    "about": "Gouzedun diw erwoj ca mipurko aviteda ihedi huvo pu mem fafjicni si faroles zi bac ki matiskew. Ukobon awge bev gubotwa fa uf dob mu tizku lu be fasindo. Bogmafnij wuwog fa odkozda deromjeg to pi vohohe be vuavahaj jubekes tudne fena ufto jihic serime muhe. Dopud ekeevu vezanep tiz faha nin sucetev uwi cogzufi ogiejden jiltujjur joldobom akutij tu.",
+    "bio": "Wu wa uzmo tica pektu oneri mu apoji vo idavolu narowic sito. Mef kemib cebnawso sac siabga zatojak ta zone kohjerdu kin owu diurri evmazvaf kubron avevupeg lunlumit niguhos re. Hitpufet bukerim hoin lof dabve viji fuwet moptid ta tibha anevob lo racuap uheluw lelmorre ipe evero."
+  },
+  "apiKey": "66ed91a2490f966932095d7e3e83942442b6663807c49ec3cb108cfc278934d0",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
