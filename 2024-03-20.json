@@ -1,0 +1,26 @@
+{
+  "name": "Janie Reyes",
+  "age": 41,
+  "address": {
+    "street": "Waljak Junction",
+    "city": "Ipwavi",
+    "state": "NJ",
+    "zip": "64541"
+  },
+  "contact": {
+    "phone": "(203) 604-5041",
+    "servicePhone": "800111899"
+  },
+  "birthday": "1984-04-11T15:16:44.522Z",
+  "ip": "216.10.178.93",
+  "foo": "bar",
+  "profile": {
+    "about": "Mu na fojuwed ma ildicwek rulvoter falwe rilebira huluza wumif ivtafe averow bifo tossa. Je tanjala moz ovasu ot jenuh vutot na vubjiwzo jegubcu da dungocfoh banordum valeota. Zilamo et un hu wivcofad lunca ofwafo cedzih egejupcu ij uderewez cega viotsak makbene pufale founaal.",
+    "bio": "Becu vak cem zivo pizfavap mafodmuv reate cucfa kiwat guve de nene zirlu jom lih icahipfez. Kincusbig efih hibpuraz si serioto ne napejoj dev tuokifez gaj wutnaj belzo pooz akewabbam bi vopisdir muc ovwieb. Rapaca ja bugagu woewjuc anuowu ina pez pejfa wetdeoh cippidlir da zamusura jetuav. Mu so job del fovanwih gi elu ad dekelwe rankaj nejaszo wepabpah liwaj ka fugi."
+  },
+  "apiKey": "a073000166c85fe0fc7ca035361b4f836e7a94578231da2a0e7e1b74070d81cb",
+  "currency": {
+    "code": "TJS",
+    "name": "Tajikistan Somoni"
+  }
+}
