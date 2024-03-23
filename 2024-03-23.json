@@ -1,0 +1,26 @@
+{
+  "name": "Tony Stevenson",
+  "age": 43,
+  "address": {
+    "street": "Jeez Square",
+    "city": "Zosatbir",
+    "state": "LA",
+    "zip": "70447"
+  },
+  "contact": {
+    "phone": "(370) 998-4318",
+    "servicePhone": "800993829"
+  },
+  "birthday": "1997-03-01T23:40:12.863Z",
+  "ip": "55.176.244.180",
+  "foo": "bar",
+  "profile": {
+    "about": "Vo dohmakga fo iwram sifgipoh ah neuchi anfol re alemab nul seod rivap. Zenfavig vasim tavaswew lirkuhruh civ hufiro agi giut barajolon milo guc te cezkupew fe zu holrelu ri. Haseh kof jaovutod sezloj hizmoati usrilobi suteh naedemah paruv ge defesojan edaobre efakizkel seov ura cup zan. Iz kimki berene ocudewaw fen mo hijna sogko ja rew sezpeh avitaci meb kejbohu. Ip jigot he mun zese uno gojdelod dilwanpu filuw doje wupej fathov howruzi hacgevni cof.",
+    "bio": "Lef biklil ma jiz odeube jewes ovuwodef elizioza mathigug sinapet ukaavsa lebigapow zedurcep azzera jolimna ne nes. Fil jib pehlapem verogni nerwup nu booro ditotif on kec wid nugawmu podjenac ab douz vu. Paguhi ujec geb odo mo sueze bicmehhef ilo ba va caz jiohe guh pas fip gisnundu. Catab vomeuta rogfeftuc ola wograus jejasuzen nizuka seteamo ipazofak juhem porikzo hocum gaf joosu udaabjoh tiwume polawi."
+  },
+  "apiKey": "3ca7a39e10c4d22d4a6d3af0194ad75cb62e22b01a5c13347c95dc30bb5e77f5",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}
