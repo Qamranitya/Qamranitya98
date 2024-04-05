@@ -1,0 +1,26 @@
+{
+  "name": "Myrtie Hudson",
+  "age": 40,
+  "address": {
+    "street": "Refdim Path",
+    "city": "Kukilsur",
+    "state": "UT",
+    "zip": "12324"
+  },
+  "contact": {
+    "phone": "(356) 701-4768",
+    "servicePhone": "800123381"
+  },
+  "birthday": "1968-10-07T11:45:22.861Z",
+  "ip": "189.149.209.217",
+  "foo": "bar",
+  "profile": {
+    "about": "Lema kuvocu reipdi hov poz levuj werzeboh lacme vo cacezu ge borub wes. Risvibsat jezluwag jegbiz zoruduwi niov udavogufa puwle hin rancez ehaje cobfej nuvheagi viigu. Masa oztag zizumjif ozupi dofjapaw ri odfiluh eci nosufiba tul gokvuz viggi vocdur ukifawnal isa.",
+    "bio": "Vodwi ca epoduhzu feb gi ufuda bervaci tulbuh tud zet wisru hakek incicun kasupuimi pudzadema muvo. Za atwuf avucitih mohsegev zeji lunmugilu wi naji ginof unuwdu vevu tufro iwize batcov juztuvja ke. Vitate maddu beroc nop kejlalwot vog lup ka ugmupe tam weatogu bu fes."
+  },
+  "apiKey": "d0b92015e1d323670e1f4d27ade57fb5f3712055c4fd80610c646c63ffb1c700",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
