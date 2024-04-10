@@ -1,0 +1,26 @@
+{
+  "name": "Noah Baker",
+  "age": 57,
+  "address": {
+    "street": "Lece Path",
+    "city": "Ciedjem",
+    "state": "IN",
+    "zip": "46594"
+  },
+  "contact": {
+    "phone": "(532) 231-4181",
+    "servicePhone": "800175599"
+  },
+  "birthday": "1959-04-28T17:44:19.607Z",
+  "ip": "104.81.77.175",
+  "foo": "bar",
+  "profile": {
+    "about": "Ibija irorul gozejfu zu lu al se ug got haezimud serhiko wowan podgev. Bi tujdur bekifa rulo doduhew tavbunlal pa rovupi jif era lusisfap zoketo biruv haw iflos ov ivoizro moh. Ti ce cun zobutfa wuilihu ribaripo suheco ebiduz dedafan pumig fapej ocediril li cijalpow fib luz. Lifwu bes ge ciwuzkik pi do ada eja ca wufzuhbur veh husizilu.",
+    "bio": "Oh buna seniato ve dal wumbaf nom gopu vazogo zeknoeda pagomma ruiwo nobtuma fovzanol koosdol iwdaane pacsuzaz. Gu rogu be fedof em rawurogi votgudo ez bo difisif tafe gem citefaaf niihpow. Ihosi ujnamag zikgi vitabcin ajorefce muv eva sakiz fun ce cacgazo si."
+  },
+  "apiKey": "de9519b7e4f2e9c6d236b69c6229004d14ad67f385d7646b9dd1464259c0bb39",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
